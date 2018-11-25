@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">task205</string>
+    <string name="grabar">Grabar</string>
+    <string name="detener_grabaci_n">Detener Grabación</string>
+    <string name="reproducir_grabaci_n">Reproducir Grabación</string>
+    <string name="textview">TextView</string>
+</resources>
